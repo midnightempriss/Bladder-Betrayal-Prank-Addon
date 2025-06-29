@@ -1,8 +1,0 @@
-## Interface: 110002
-## Title: Bladder Betrayal - Prank Addon
-## Notes: Makes player character wet themselves
-## Author: PrincessLunaFae
-## Version: 1.0
-## SavedVariables: BladderBetrayalDB
-
-Core.lua
